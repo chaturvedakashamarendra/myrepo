@@ -1,7 +1,7 @@
 apiVersion: ai.sap.com/v1alpha1
 kind: ServingTemplate
 metadata:
-  name: ibmtest  
+  name: "ibmtest" 
   annotations:
     scenarios.ai.sap.com/description: "RAG Pipeline"
     scenarios.ai.sap.com/name: "rag-pipeline"
